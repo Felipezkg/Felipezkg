@@ -21,7 +21,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,ps,vscode,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,mongodb,firebase,ps,vscode,vite,vercel)](https://skillicons.dev)
 
 
 
