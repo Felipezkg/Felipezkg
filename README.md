@@ -4,7 +4,7 @@
 **Sobre mim:**
 - [x] Técnico em Desenvolvimento de Sistemas - Senai São José
 - [x] Analista de Suporte Técnico - Maxpan Tech
-- [ ] QA Tester - Maxpan Tech - In coming...
+<!-- - [ ] QA Tester - Maxpan Tech - In coming... -->
 
 **Técnologias:**
 - [x] Javascript
